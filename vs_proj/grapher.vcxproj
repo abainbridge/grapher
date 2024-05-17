@@ -50,6 +50,7 @@
     <ClInclude Include="..\..\deadfrog-lib\src\df_message_dialog.h" />
     <ClInclude Include="..\..\deadfrog-lib\src\df_time.h" />
     <ClInclude Include="..\..\deadfrog-lib\src\df_window.h" />
+    <ClInclude Include="..\stb_image_write.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

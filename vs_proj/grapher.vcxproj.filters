@@ -81,5 +81,6 @@
     <ClInclude Include="..\..\deadfrog-lib\src\df_window.h">
       <Filter>deadfrog-lib</Filter>
     </ClInclude>
+    <ClInclude Include="..\stb_image_write.h" />
   </ItemGroup>
 </Project>
